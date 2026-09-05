@@ -9,7 +9,7 @@ export const initialHabits = [
  id: "react-study",
  title: "Estudar React",
  goal: "30 minutos",
- completed: false,
+ completed: true,
  },
  {
  id: "walk",
